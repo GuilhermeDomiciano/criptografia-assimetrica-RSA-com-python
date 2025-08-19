@@ -35,9 +35,9 @@ PRÉ-REQUISITOS
 INSTALAÇÃO
 --------------------
 
-Antes de rodar o programa, é necessário instalar a biblioteca `cryptography`. Abra seu terminal ou prompt de comando e execute:
+Antes de rodar o programa, é necessário instalar a biblioteca `pycryptodome`. Abra seu terminal ou prompt de comando e execute:
 
-   pip install cryptography
+   pip install pycryptodome
 
 
 --------------------
